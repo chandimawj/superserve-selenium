@@ -58,7 +58,7 @@
           <version>2.22.1</version>
           <configuration>
             <suiteXmlFiles>
-              <suiteXmlFile>NewToursUITest.xml</suiteXmlFile>
+              <suiteXmlFile>testng.xml</suiteXmlFile>
             </suiteXmlFiles> 
           </configuration>
         </plugin>
